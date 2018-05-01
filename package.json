@@ -1,0 +1,22 @@
+{
+  "name": "node-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jerling1989/Node-Tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jerling1989/Node-Tests/issues"
+  },
+  "homepage": "https://github.com/Jerling1989/Node-Tests#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
