@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Jerling1989/Node-Tests#readme",
   "devDependencies": {
+    "expect": "^1.20.2",
     "mocha": "^5.1.1"
   }
 }
