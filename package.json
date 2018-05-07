@@ -19,7 +19,8 @@
   "homepage": "https://github.com/Jerling1989/Node-Tests#readme",
   "devDependencies": {
     "expect": "^1.20.2",
-    "mocha": "^5.1.1"
+    "mocha": "^5.1.1",
+    "supertest": "^3.0.0"
   },
   "dependencies": {
     "express": "^4.16.3"
