@@ -1,1 +1,2 @@
 # Node-Tests
+This is a repository created to practice various ways of testing my NODE applications. There are many npm packages used for the testing of my apps like mocha, expect, rewire, and supertest. I used many of the functions that are built into these packages like describe(), it(), expect(), and creating spies. All of these things helped me test my applications with ease and make my code function more efficiently.
